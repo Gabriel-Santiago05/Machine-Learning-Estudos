@@ -4,7 +4,7 @@ O atributo doors indica o n´umero de portas {2, 3, 4, 5more: 5 ou mais};
 O atributo persons indica o n´umero de pessoas que o carro pode transportar {2,4, more: mais}.
 O atributo lug boot indica o tamanho do porta-malas: {small: pequeno, med: m´edio, big: grande}.
 O atributo safety indica a seguran¸ca do carro {low: baixa, med: m´edia, high: alta}.
-Al´em disso, cada exemplo tem quatro classes: unacc, acc, good, vgood, sendo que unacc significa carro inaceitavel, acc aceit´avel, good bom e vgood muito bom.
+Al´em disso, cada exemplo tem quatro classes y: unacc, acc, good, vgood, sendo que unacc significa carro inaceitavel, acc aceit´avel, good bom e vgood muito bom.
 
 Aceitação do carro
 . Preço total:
