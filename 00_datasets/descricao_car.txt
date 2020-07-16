@@ -1,0 +1,18 @@
+O atributo buying indica o n´ıvel do pre¸co de compra do carro {vhigh: muitoalto, high: alto, med: m´edio, low: baixo}. 
+O atributo maint indica n´ıvel de gastos para manuten¸c˜ao {vhigh: muito alto, high: alto, med: m´edio, low: baixo}.
+O atributo doors indica o n´umero de portas {2, 3, 4, 5more: 5 ou mais};
+O atributo persons indica o n´umero de pessoas que o carro pode transportar {2,4, more: mais}.
+O atributo lug boot indica o tamanho do porta-malas: {small: pequeno, med: m´edio, big: grande}.
+O atributo safety indica a seguran¸ca do carro {low: baixa, med: m´edia, high: alta}.
+Al´em disso, cada exemplo tem quatro classes: unacc, acc, good, vgood, sendo que unacc significa carro inaceitavel, acc aceit´avel, good bom e vgood muito bom.
+
+Aceitação do carro
+. Preço total:
+. . preço de compra
+. . preço de manutenção
+. Características técnicas
+. . conforto
+. . . número de portas
+. . . capacidade de pessoas em termos de pessoas para transportar
+. . . lug_boot o tamanho da bagageira
+. . . segurança estimada do carro
