@@ -1,0 +1,17 @@
+KNN
+
+-------------------------------------------------------
+BankFull:
+0.8835 - (LabelEncoder + OneHotEncoder + Escalonamento)
+0.8769 - (LabelEncoder)
+0.8769 - (LabelEncoder + OneHotEncoder)
+0.8902 - (LabelEncoder + Escalonamento)
+-------------------------------------------------------
+
+-------------------------------------------------------
+Car:
+0.8576 - (LabelEncoder + OneHotEncoder + Escalonamento)
+0.9115 - (LabelEncoder)
+0.9038 - (LabelEncoder + OneHotEncoder)
+0.9307 - (LabelEncoder + Escalonamento)
+-------------------------------------------------------
