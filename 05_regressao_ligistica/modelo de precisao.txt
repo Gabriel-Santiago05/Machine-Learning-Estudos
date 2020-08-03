@@ -1,0 +1,7 @@
+Regressão Linear:
+
+-------------------------------------------------------
+bank-full.csv:
+0.9009 - (LabelEncoder + OneHotEncoder + Escalonamento)
+0.8890 - (LabelEncoder + Escalonamento)
+-------------------------------------------------------
